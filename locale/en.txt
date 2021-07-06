@@ -1,0 +1,51 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = jujur kok dipecat 2
+
+## Skin
+
+### Dropdown
+DropDown_5D40A59C_7A5A_2652_41DC_E9341842C08A.prompt = M E N U
+
+### Label
+Label_523C337B_7A7A_22D6_41C0_623B49AA0FBF.text = Home Page
+Label_5E7FBF22_7A56_6276_41DD_70F5626506A4.text = Floor Plane
+Label_5FCD40E9_7A5A_5FC3_41B0_23CB1C07BC63.text = Home Exhibition
+
+### Tooltip
+DropDown_5D40A59C_7A5A_2652_41DC_E9341842C08A.toolTip = M E N U
+
+## Media
+
+### Title
+map_669CA9BE_7A2A_2E4E_41DD_8818194C2333.label = peta
+panorama_7D1B15E0_762B_E1F2_4192_7B31B32B9A5E.label = 0
+panorama_7FA88270_762A_62D2_41C2_5463C60F4E0F.label = 7
+panorama_7FA885C6_762A_263E_41C0_16F58A0B234A.label = 11
+panorama_7FA89169_762A_3EF5_41DB_A46FA473C0F1.label = 5
+panorama_7FA89441_762A_6632_41B1_4FD6658F0510.label = 9
+panorama_7FA89FA7_762B_E27D_41D5_F9C135CA689C.label = 3
+panorama_7FA8D744_762B_E232_41D2_063256CF9ED1.label = 2
+panorama_7FA8E890_762A_2E52_41D5_5A20F91F5107.label = 4
+panorama_7FA8E9F4_762A_21D3_41CC_4E56D94542AB.label = 6
+panorama_7FAD0EE8_762B_E3F2_41DB_585AA3F6DD3C.label = 1
+panorama_7FAF4E51_762A_22D2_41CF_2E8397F6462F.label = 12
+panorama_7FAF5CCE_762A_67CE_41D3_60A409404FFC.label = 10
+panorama_7FAF6B68_762A_62F2_41D0_8B9008B45593.label = 8
+panorama_7FAF76CC_762A_2233_41D0_89ABB3E1830F.label = 13
+panorama_7FAF8904_762A_EE32_41BB_5128C05706FA.label = bird eye_2
+panorama_7FAFC017_762A_DE5E_41DA_FE42C070807A.label = bird eye_1
+panorama_7FAFC17F_762A_FECE_41C6_7E25D58AA125.label = peta
+video_63E81F7B_765A_22D5_41C8_AB213BECB2A0.label = gnsh-1 - Ganesha Perdana
+video_6C5E8B84_76D6_6232_41DC_2E0533073DC0.label = Tali dan ban F
+
+## Action
+
+### URL
+LinkBehaviour_523C137B_7A7A_22D6_4180_90D0A6D75A07.source = https://jujurkokdipecat.id/
+LinkBehaviour_52EEC3B9_7A7E_2252_41D4_711D9C5129DF.source = https://jujurkokdipecat.id/
