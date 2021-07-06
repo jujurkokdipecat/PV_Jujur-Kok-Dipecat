@@ -11,14 +11,19 @@ tour.name = jujur kok dipecat 2
 
 ### Dropdown
 DropDown_5D40A59C_7A5A_2652_41DC_E9341842C08A.prompt = M E N U
+DropDown_5D40A59C_7A5A_2652_41DC_E9341842C08A_mobile.prompt = M E N U
 
 ### Label
 Label_523C337B_7A7A_22D6_41C0_623B49AA0FBF.text = Home Page
+Label_523C337B_7A7A_22D6_41C0_623B49AA0FBF_mobile.text = Home Page
 Label_5E7FBF22_7A56_6276_41DD_70F5626506A4.text = Floor Plane
+Label_5E7FBF22_7A56_6276_41DD_70F5626506A4_mobile.text = Floor Plane
 Label_5FCD40E9_7A5A_5FC3_41B0_23CB1C07BC63.text = Home Exhibition
+Label_5FCD40E9_7A5A_5FC3_41B0_23CB1C07BC63_mobile.text = Home Exhibition
 
 ### Tooltip
 DropDown_5D40A59C_7A5A_2652_41DC_E9341842C08A.toolTip = M E N U
+DropDown_5D40A59C_7A5A_2652_41DC_E9341842C08A_mobile.toolTip = M E N U
 
 ## Media
 
@@ -49,3 +54,5 @@ video_6C5E8B84_76D6_6232_41DC_2E0533073DC0.label = Tali dan ban F
 ### URL
 LinkBehaviour_523C137B_7A7A_22D6_4180_90D0A6D75A07.source = https://jujurkokdipecat.id/
 LinkBehaviour_52EEC3B9_7A7E_2252_41D4_711D9C5129DF.source = https://jujurkokdipecat.id/
+LinkBehaviour_71C8FC76_7A23_8295_41D3_A89371DA39B9.source = https://jujurkokdipecat.id/
+LinkBehaviour_71CD9C7A_7A23_829D_41C0_AE2C2AFDDF7A.source = https://jujurkokdipecat.id/
