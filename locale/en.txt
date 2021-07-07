@@ -17,7 +17,7 @@ Label_5B7AB2C4_7A25_87F5_41B2_DE5C7A0600E7.text = Home Exhibition
 Label_5FCD40E9_7A5A_5FC3_41B0_23CB1C07BC63.text = Floor Plans
 Label_64C0BB3F_7A26_8694_419D_96AAAE87355B.text = Home Page
 Label_6594CAC5_7A27_87F7_41CE_4C6B540BCEAF_mobile.text = Home Exhibition
-Label_65BBFC0C_7A22_8275_41B1_8734FA926CFE_mobile.text = Home Exhibition
+Label_65BBFC0C_7A22_8275_41B1_8734FA926CFE_mobile.text = Home Page
 Label_668D3AC5_7A22_87F7_41C4_4174A5401112_mobile.text = Floor Plans
 
 ### Tooltip
@@ -51,6 +51,6 @@ video_6C5E8B84_76D6_6232_41DC_2E0533073DC0.label = Tali dan ban F
 
 ### URL
 LinkBehaviour_52EEC3B9_7A7E_2252_41D4_711D9C5129DF.source = https://jujurkokdipecat.id/
-LinkBehaviour_5B466B3D_7A26_8697_41D8_E32819524138.source = https://jujurkokdipecat.id/
 LinkBehaviour_64C04B3F_7A26_8694_41CB_93696F99D685.source = https://jujurkokdipecat.id/
+LinkBehaviour_70643E07_7DD8_4F37_41D0_E23CAF121162.source = https://jujurkokdipecat.id/
 LinkBehaviour_71CD9C7A_7A23_829D_41C0_AE2C2AFDDF7A.source = https://jujurkokdipecat.id/
